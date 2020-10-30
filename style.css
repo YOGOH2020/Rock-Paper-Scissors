@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	padding-top: 50px;
+}
+
+h2{
+	text-align: center;
+	padding-top: 50px;
+}
+
+button{
+	height: 200px;
+	position: relative;
+	width: 33%;
+	font-size: 300%;
+	font-family: unset;
+	color: rgba(162, 30, 64);
+}
